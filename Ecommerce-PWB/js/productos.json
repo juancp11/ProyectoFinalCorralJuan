@@ -1,0 +1,134 @@
+[ 
+    {
+        "id": "Hamburguesa 1",
+        "titulo": "Hamburguesa 1",
+        "imagen": "./imgenes/burg1.jpg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "Hamburguesa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Hamburguesa 2",
+        "titulo": "Hamburguesa 2",
+        "imagen": "./imgenes/burg2.jpg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "Hamburguesa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Hamburguesa 3",
+        "titulo": "Hamburguesa 3",
+        "imagen": "./imgenes/burg3.jpg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "Hamburguesa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Hamburguesa 4",
+        "titulo": "Hamburguesa 4",
+        "imagen": "./imgenes/burg4.jpg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "Hamburguesa"
+        },
+        "precio": 1000
+    },
+
+
+    
+    {
+        "id": "Papas Fritas",
+        "titulo": "Papas fritas",
+        "imagen": "./imgenes/papas fritas1.jpg",
+        "categoria": {
+            "nombre": "Guarniciones ",
+            "id": "Guarniciones "
+        },
+        "precio": 500 
+    },
+
+    {
+        "id": "Papas fritas con cheddar",
+        "titulo": "Papas fritas con cheddar",
+         "imagen": "./imgenes/papas-fritas-chedar.jpg",
+        "categoria": {
+            "nombre": "Guarniciones ",
+            "id": "Guarniciones "
+        },
+        "precio": 500 
+    },
+    
+    {
+        "id": "Papas con cheddar y bacon",
+        "titulo": "Papas con cheddar y bacon",
+        "imagen": "./imgenes/papas fritas2.jpg",
+        "categoria": {
+            "nombre": "Guarniciones ",
+            "id": "Guarniciones "
+        },
+        "precio": 500
+    },
+    
+    {
+        "id": "Aros de cebolla",
+        "titulo": "Aros de cebolla",
+         "imagen": "./imgenes/aros de cebolla.jpg",
+        "categoria": {
+            "nombre": "Guarniciones ",
+            "id": "Guarniciones "
+        },
+        "precio": 500
+    },
+    
+    
+    {
+        "id": "Coca cola",
+        "titulo": "Cocacola",
+        "imagen": "./imgenes/coca cola.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "Bebidas"
+        },
+        "precio": 500
+    },
+
+    {
+         "id": "Sprite",
+        "titulo": "Sprite",
+        "imagen": "./imgenes/sprite.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "Bebidas"
+        },
+        "precio": 500
+    },
+    
+    {
+         "id": "Cerveza",
+        "titulo": "Cerveza",
+        "imagen": "./imgenes/cerveza.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "Bebidas"
+        },
+        "precio": 500
+    },
+    
+    {
+        "id": "Agua",
+        "titulo": "Agua",
+        "imagen": "./imgenes/agua.jpg",
+        "categoria": {
+            "nombre": "Bebidas",
+            "id": "Bebidas"
+        },
+        "precio": 500
+    }
+    
+]
